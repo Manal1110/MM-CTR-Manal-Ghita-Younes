@@ -28,7 +28,7 @@ Implementation of a Multimodal CTR prediction system for the [WWW 2025 EReL@MIR 
 | #1 | tolive666 | 0.9892 |
 | #2 | jiyuqian | 0.9887 |
 | #3 | QVQ | 0.9885 |
-| — | **Ours (Group 4)** | **0.9276** |
+| — | **Ours** | **0.9276** |
 | — | Challenge Average | ~0.89 |
 
 > Our submission was made after the official challenge deadline for class/research purposes. Top positions reflect teams competing during the live phase with full compute resources and backbone fine-tuning.
